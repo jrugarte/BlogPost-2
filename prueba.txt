@@ -1,0 +1,7 @@
+Esto es un texto de prueba para el curso de git-github
+
+agrego este parrafo para guardar y add
+
+
+nueva linea agregada
+ultimo commit
