@@ -1,5 +1,11 @@
 body{
-    background-color: aqua;
+    background-color: #FAEA48;
+    color: #3330E4;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 3px solid #3330E4;
+    border-radius: 15px;
+    margin: 10px 10px 10px 10px;
+    padding: 23px 23px 23px 23px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     display: flex;
     justify-content: center;
@@ -7,7 +13,7 @@ body{
     align-items: center;
 }
 .title{
-    color: blueviolet;
+    color: #F637EC;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,8 +30,17 @@ body{
 .parrafos{
     display: flex;
     padding: 5px 5px 5px 5px;
-    border: 2px solid rgb(221, 13, 141);
+    border: 2px solid #FBB454;
     border-radius: 10px;
     font-family: Haettenschweiler;
     justify-content: center;
+}
+.footer{
+    display: flex;
+    font-size: 12px;
+    padding: 5px 5px 5px 5px;
+    border: 2px solid #FBB454;
+    border-radius: 10px;
+    font-family: Haettenschweiler;
+    justify-content: center;  
 }
