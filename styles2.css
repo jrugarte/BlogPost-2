@@ -13,3 +13,19 @@ body{
     align-items: center;
     flex-direction: row;
 }
+#content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+.parrafos{
+    display: flex;
+    padding: 5px 5px 5px 5px;
+    border: 2px solid rgb(221, 13, 141);
+    border-radius: 10px;
+    font-family: Haettenschweiler;
+    justify-content: center;
+}
